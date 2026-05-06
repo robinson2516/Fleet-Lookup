@@ -1,0 +1,17 @@
+{
+  "name": "JGP Fleet Management",
+  "short_name": "JGP Fleet",
+  "description": "Jackson Group Peterbilt fleet unit lookup",
+  "start_url": "/Fleet-Lookup/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#990000",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
